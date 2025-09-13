@@ -1,21 +1,17 @@
-# --- backend ---
-backend/node_modules/
-backend/tmp/
-backend/uploads/*
-!backend/uploads/.gitkeep
-backend/vectorstore.sqlite
-backend/hazard.db
-backend/.env
-backend/*.bak.json
+# global
+node_modules/
+*.log
 
-# --- frontend (Next) ---
-frontend-next/node_modules/
-frontend-next/.next/
-frontend-next/out/
-frontend-next/build/
+# secrets
+backend/.env
 frontend-next/.env.local
 
-# OS / editors
-.DS_Store
-Thumbs.db
-.vscode/
+# builds/temp
+frontend-next/.next/
+frontend-next/out/
+frontend/
+backend/tmp/
+backend/uploads/
+backend/uploads_tmp/
+backend/vectorstore.sqlite
+backend/hazard.db

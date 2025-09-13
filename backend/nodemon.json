@@ -1,0 +1,13 @@
+{
+    "watch": ["server.js", "db.js", "embed.js", "routes", "scripts"],
+    "ignore": [
+      "hazard-log.json",
+      "uploads/*",
+      "*.xlsx",
+      "*.db",
+      "node_modules",
+      ".env"
+    ],
+    "ext": "js,json"
+  }
+  

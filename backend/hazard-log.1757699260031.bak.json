@@ -1,0 +1,2775 @@
+[
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "No takeoff speeds indication leads up to earlier or late rotation",
+    "ei_ref": "EI 11",
+    "ei_label": "Failure to detect absence of takeoff speeds",
+    "consequence": "8",
+    "barriers": [
+      "Strict adherence to the ATR FCOM.PRO.NOP.NOR.8",
+      "10 & 11. And also FCOM.PRO.NOP.NSU.31.2.2.4 & 5"
+    ],
+    "risk": "2D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "The safety of the flight may be compromised",
+    "ei_ref": "EI 12",
+    "ei_label": "Pilot Flying adherence to the procedures",
+    "consequence": "6",
+    "barriers": [
+      "Flight Data Analysis",
+      "CRM Training",
+      "Implementation of a system of Feedback",
+      "information to the HF",
+      "CRM",
+      "SMS",
+      "etc."
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Failure to detect an error by the pilot monitoring which may affect flight safety.",
+    "ei_ref": "EI 13",
+    "ei_label": "Pilot Monitoring crosscheck",
+    "consequence": "6",
+    "barriers": [
+      "CRM Training",
+      "Application of RAM EXPRESS Policy as described in OM PART A § 14"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Deficiencies in embedded Manual Flying skills\r\n\r\nFailure of the Training department to program reccurent training to monitor the operational drift leading to a loss of competence.",
+    "ei_ref": "EI 14",
+    "ei_label": "Embedded piloting skills",
+    "consequence": "4",
+    "barriers": [
+      "Pre",
+      "requisite for the recruitment of pilots in general.",
+      "Proficiency check in simulator flown without auto pilot exercise."
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Flight safety may be altered by a lack of vigilance",
+    "ei_ref": "EI 15",
+    "ei_label": "Pilot fatigue",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures and limitations as described in OM PART A § 6.4.4 FATIGUE",
+      "SLEEP AND REST and Chap.7 FLIGHT TIME LIMITATIONS",
+      "Implementation of a system of Feedback by treatment and analysis of crew's reports (e",
+      "mail messages or FATIGUE REPORT",
+      "QPulse)"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Handling errors in Automation, Flight Controls, System, Instrument, Radio or Taxi which may affect flight safety.",
+    "ei_ref": "EI 16",
+    "ei_label": "Aircraft handling",
+    "consequence": "6",
+    "barriers": [
+      "Flight Data Analysis",
+      "Implementation of a system of Feedback",
+      "information to the HF",
+      "CRM",
+      "SMS",
+      "etc."
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Hazard specificity",
+    "ei_ref": "Hazard No.",
+    "ei_label": "Description",
+    "consequence": "Result",
+    "barriers": [
+      "Prevention"
+    ],
+    "risk": "",
+    "updated_on": "Updated on"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Flight conditions may lead to a misinterpretation of an unsafe situation to fly\r\n\r\n1st FSF Landing Excursion Top Risk Factors",
+    "ei_ref": "EI 17",
+    "ei_label": "Aborted take-off initiated at speed greater than V 1",
+    "consequence": "8",
+    "barriers": [
+      "Strict adherence to the procedures as depicted in OM PART A",
+      "FCOM",
+      "and QRH",
+      "Implementation of a system of Feedback",
+      "information to the HF",
+      "CRM",
+      "SMS",
+      "etc."
+    ],
+    "risk": "2D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Rushed an mis-calibrated approaches are the largest conributors to runway excursions specifically on contaminated runways.",
+    "ei_ref": "EI 18",
+    "ei_label": "Unstablized approaches",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "FDA program"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Failure to Go-around when warranted are the  the largest conributors to runway excursions specifically on contaminated runways\r\n\r\n1st FSF Landing Excursion Top Risk Factors",
+    "ei_ref": "EI 19",
+    "ei_label": "No go-around decision when warranted",
+    "consequence": "9",
+    "barriers": [],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Directional control during takeoff, RTO or Landing is inadequate\r\n\r\n2nd FSF Takeoff Excursion Top Risk Factors\r\n8th FSF Landing Excursion Top Risk Factors",
+    "ei_ref": "EI 110",
+    "ei_label": "Inadequate pilot directional control",
+    "consequence": "3",
+    "barriers": [
+      "Strict respect of OM PART A Chap.14 RAM EXPRESS POLICY and FCTM",
+      "FDA program"
+    ],
+    "risk": "1C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Rushed an mis-calibrated approaches are the largest conributors to runway excursions specifically on contaminated runways.\r\n\r\n12Th FSF Landing Excursion Top Risk Factors",
+    "ei_ref": "EI 111",
+    "ei_label": "Approach - high",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "FDA program"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Rushed an mis-calibrated approaches are the largest conributors to runway excursions specifically on contaminated runways.",
+    "ei_ref": "EI 112",
+    "ei_label": "Approach - fast",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "FDA program"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Rushed an mis-calibrated approaches are the largest conributors to runway excursions specifically on contaminated runways.",
+    "ei_ref": "EI 113",
+    "ei_label": "Touchdown - fast",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "FDA program"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Hard landing event due Insufficient Flare or Idle power set after touchdown or touchdown with excessive vertical speed or too low speed or adverse weather conditions, etc...\r\n\r\n7th FSF Landing Excursion Top Risk Factors",
+    "ei_ref": "EI 114",
+    "ei_label": "Touchdown - hard",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "provides a detailed description",
+      "a prevention and recommandation to recover from a bounce landing",
+      "FDA program"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Long flare may lead to runway excursion on short fields",
+    "ei_ref": "EI 115",
+    "ei_label": "Long Landing distance\r\nFDA program ( Classe 2 > 900m, Class 3 > 1100 m)",
+    "consequence": "8",
+    "barriers": [
+      "Program as much Manual Training as possible during simulator sessions to further develop the Manual Flying Skills of flight crews",
+      "and particularly promote during standardization meetings with instructors",
+      "a safe landing culture on touchdown zone markings",
+      "Strict respect of procedures as described in OM PART A § 14.2.2.6.1.3 LANDING ON TOUCHDOWN ZONE"
+    ],
+    "risk": "2D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Long flare may lead to late runway evacuation on long fields",
+    "ei_ref": "EI 115a",
+    "ei_label": "Long Landing distance\r\nFDA program ( Classe 2 > 900m, Class 3 > 1100 m)",
+    "consequence": "4",
+    "barriers": [
+      "Program as much Manual Training as possible during simulator sessions to further develop the Manual Flying Skills of flight crews",
+      "and particularly promote during standardization meetings with instructors",
+      "a safe landing culture on touchdown zone markings",
+      "Strict respect of procedures as described in OM PART A § 14.2.2.6.1.3 LANDING ON TOUCHDOWN ZONE"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Looking for smooth contact during landing may lead to runway excursion on short fields",
+    "ei_ref": "EI 115b",
+    "ei_label": "Long Landing distance\r\nFDA program ( Classe 2 > 900m, Class 3 > 1100 m)",
+    "consequence": "8",
+    "barriers": [
+      "Program as much Manual Training as possible during simulator sessions to further develop the Manual Flying Skills of flight crews",
+      "and particularly promote during standardization meetings with instructors",
+      "a safe landing culture on touchdown zone markings",
+      "Strict respect of procedures as described in OM PART A § 14.2.2.6.1.3 LANDING ON TOUCHDOWN ZONE"
+    ],
+    "risk": "2D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Looking for smooth contact during landing may lead to late runway evacuation on long fields",
+    "ei_ref": "EI 115c",
+    "ei_label": "Long Landing distance\r\nFDA program ( Classe 2 > 900m, Class 3 > 1100 m)",
+    "consequence": "4",
+    "barriers": [
+      "Program as much Manual Training as possible during simulator sessions to further develop the Manual Flying Skills of flight crews",
+      "and particularly promote during standardization meetings with instructors",
+      "a safe landing culture on touchdown zone markings",
+      "Strict respect of procedures as described in OM PART A § 14.2.2.6.1.3 LANDING ON TOUCHDOWN ZONE"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Long flare due to miscalibrated approach with displaced aiming point that may lead to runway excursion on short fields",
+    "ei_ref": "EI 115d",
+    "ei_label": "Long Landing distance\r\nFDA program ( Classe 2 > 900m, Class 3 > 1100 m)",
+    "consequence": "4",
+    "barriers": [
+      "Program as much Manual Training as possible during simulator sessions to further develop the Manual Flying Skills of flight crews",
+      "and particularly promote during standardization meetings with instructors",
+      "a safe landing culture on touchdown zone markings",
+      "Strict respect of procedures as described in OM PART A § 14.2.2.6.1.3 LANDING ON TOUCHDOWN ZONE"
+    ],
+    "risk": "1D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Long flare due to miscalibrated approach with displaced aiming point that may lead to late runway evacuation on long fields",
+    "ei_ref": "EI 115e",
+    "ei_label": "Long Landing distance\r\nFDA program ( Classe 2 > 900m, Class 3 > 1100 m)",
+    "consequence": "3",
+    "barriers": [
+      "Program as much Manual Training as possible during simulator sessions to further develop the Manual Flying Skills of flight crews",
+      "and particularly promote during standardization meetings with instructors",
+      "a safe landing culture on touchdown zone markings",
+      "Strict respect of procedures as described in OM PART A § 14.2.2.6.1.3 LANDING ON TOUCHDOWN ZONE"
+    ],
+    "risk": "3A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Bounced and incorrect bounce recovery may lead to a tail strike and subsequently to a loss of directional control.\r\n\r\n16 th FSF Landing Excursion Top Risk Factors",
+    "ei_ref": "EI 116",
+    "ei_label": "Bouncing and incorrect bounce recovery",
+    "consequence": "3",
+    "barriers": [
+      "Strict application of procedures in :",
+      "OM PART A § 14.2.2.5.1 STABILIZED APPROACH and § 14.2.2.6.1.3 NORMAL LANDING FLARE PROFILE",
+      "FCOM § PRO.NOP.ANOR1.3 LANDING"
+    ],
+    "risk": "1C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Failure to adequately calulate landing performance according to runway condition or inaccurate reporting of the runway status",
+    "ei_ref": "EI 117",
+    "ei_label": "Ineffective braking on runway contamination",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in :",
+      "OM PART A § 8.1.2.4.7 LDG FIELD LENGHT REQUIREMENTS and and   § 8.1.2.4.8 ACTUAL LDG FIELD LENGHT REQUIREMENTS",
+      "FCOM § PER.10.1 LANDING DISTANCES",
+      "and § PRO.SPO.11.4 CONTAMINATED RUNWAY",
+      "LDTA"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Strong outflow from thunderstorms causes rapid changes in the three-dimensional wind velocity just above ground level. Initially, this outflow causes a headwind that increases airspeed, which normally causes a pilot to reduce engine power if they are unaware of the wind shear. As the aircraft passes into the region of the downdraft, the localized headwind diminishes, reducing the aircraft's airspeed and increasing its sink rate. Then, when the aircraft passes through the other side of the downdraft, the headwind becomes a tailwind, reducing lift generated by the wings, and leaving the aircraft in a low-power, low-speed descent. This can lead to an accident if the aircraft is too low to effect a recovery before ground contact..",
+    "ei_ref": "EI 118",
+    "ei_label": "Pilot techniques in wind shear conditions",
+    "consequence": "3",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "OM PART A § 8.3.8.6 WINDSHEAR",
+      "OM PART A § 8.1.6 INTERPRETATION OF METEOROLOGICAL INFORMATION",
+      "FCOM PRO.NOP.ANOR 6.2 : DECISION MAKING",
+      "FCOM PRO.NOP.ANOR 8.3 : WINDSHEAR",
+      "RTC"
+    ],
+    "risk": "1C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Each year there are a number of landing overruns or takeoff runway excursions where slippery runways or crew \r\nprocedural deviations are contributing factors.  Often, these occurrences are due to a combination of issues such as weather, runway conditions, the airplane’s weight, braking systems to be used, improper flight crew technique, or lower than expected runway \r\nfriction.",
+    "ei_ref": "EI 119",
+    "ei_label": "Pilot technique on wet/contaminated runways",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "FCOM  § PRO.SPO.11.4 CONTAMINATED RUNWAY",
+      "LDTA",
+      "FCOM § PER.10.1 LANDING DISTANCES"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Use of the nosewheel steering at an airspeed > 40 KTS may leed to an uncomfortable oscillations",
+    "ei_ref": "EI 120",
+    "ei_label": "Use of the nosewheel-steering tiller at an excessive airspeed",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted on FCOM :",
+      "§ PRO.NOP.ANOR1.1(2) NOSEWHEEL STEERING",
+      "§ PRO.NOP.ANOR.8.1.3.2 TAXI ON CONTAMINATED RUNWAYS",
+      "§ PRO.NOP.ANOR 8.2.1 OPERATIONS IN WIND CONDITIONS"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Excessive ground speed on high turnoffs (maxi 60 KTS , recommended 40 KTS) on contaminated runways or to vacate  at runways ends (due rubber deposits) are 3 contributors to rwy excursions",
+    "ei_ref": "EI 121",
+    "ei_label": "Airspeed too fast on the runway to exit safely",
+    "consequence": "8",
+    "barriers": [
+      "Strict respect of procedures depicted on OM Part A § 14.2.2.1.2.1",
+      "C BEST PRACTICES",
+      "FDA programme ( High speed turnoff + High Lat G)"
+    ],
+    "risk": "4B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "The aircraft is held off the runway for a smooth touchdown leads to a long deep touchdown, lenthening the landing distance; main risk contributory to runway excursion specifically when combined with additional threats : Tailwind, contaminated rwy, threshold crossing height to hight, too fast approach etc",
+    "ei_ref": "EI 122",
+    "ei_label": "Extended flare (allowing the aircraft to float and to decelerate (excess airspeed) in the air uses typically three times more runway than decelerating on the ground)",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "OM PART A  § 14.2.2.6.1.3 LANDING ON TOUCH DOWN ZONE",
+      "NORMAL LANDING FLARE",
+      "FDA program"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Excessive ground speed on high turnoffs on contaminated runways or to vacate  at runways ends (due rubber deposits) are 3 contributors to rwy excursions",
+    "ei_ref": "EI 123",
+    "ei_label": "Late braking",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures depicted on OM PART A § 8.1.2.4.7/8 LDG FIELD LENGHT REQUIREMENTS",
+      "ACTUAL LDG FIELD LENGHT",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "FDA program"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Crosswind associated with a landing on a contaminated runway may lead to increased landing distance due du directional control requirement related to use of differential braking and / or discontinued use of the reverse",
+    "ei_ref": "EI 124",
+    "ei_label": "Increased landing distance resulting from the use of differential braking or the  discontinued use of the reverse to maintain directional control in crosswind  conditions",
+    "consequence": "2",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "FCOM PRO.NOP.ASU.32.1 TAXI WITH FAILURES",
+      "FCOM PRO.NOP.ANOR.8.1.3.2 TAXI WITH FAILURES",
+      "FCOM PRO.SPO.11.1.2 MAXIMUM RECOMMENDED CROSSWIND",
+      "FCOM PRO.SPO.11.4 CONTAMINATED RUNWAY",
+      "LDTA",
+      "FDA program"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "UE 01",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "May lead to a rapid degradation of flight performances and a catastrophic situation.",
+    "ei_ref": "EI 125",
+    "ei_label": "Runway condition (wet or contaminated by standing water, snow, slush or ice)",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures depicted in :",
+      "OM PART A § 8.1.2.4.7 LDG FIELD LENGHT REQUIREMENTS    and   §8.1.2.4.8 ACTUAL LDG FIELD LENGHT REQUIREMENTS",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "and PRO.SPO.11.4 CONTAMINATED RUNWAY",
+      "LDTA"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Delay inproviding flight crew with critical runway condition information: runway friction, braking action and runway surface description\r\n\r\nRapidly changing runway condition that may affect flight safety",
+    "ei_ref": "EI 126",
+    "ei_label": "Weather information availability and accuracy",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in :",
+      "OM PART A § 8.1.2.4.7 LDG FIELD LENGHT REQUIREMENTS    and   §8.1.2.4.8 ACTUAL LDG FIELD LENGHT REQUIREMENTS",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "and PRO.SPO.11.4 CONTAMINATED RUNWAY",
+      "LDTA"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Strong outflow from thunderstorms causes rapid changes in the three-dimensional wind velocity just above ground level. Initially, this outflow causes a headwind that increases airspeed, which normally causes a pilot to reduce engine power if they are unaware of the wind shear. As the aircraft passes into the region of the downdraft, the localized headwind diminishes, reducing the aircraft's airspeed and increasing its sink rate. Then, when the aircraft passes through the other side of the downdraft, the headwind becomes a tailwind, reducing lift generated by the wings, and leaving the aircraft in a low-power, low-speed descent. This can lead to an accident if the aircraft is too low to effect a recovery before ground contact..",
+    "ei_ref": "EI 127",
+    "ei_label": "Wind shear",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "OM PART A § 8.3.8.6 WINDSHEAR",
+      "OM PART A § 8.1.6 INTERPRETATION OF METEOROLOGICAL INFORMATION",
+      "FCOM PRO.NOP.ANOR 6.2 : DECISION MAKING",
+      "FCOM PRO.NOP.ANOR 8.3 : WINDSHEAR",
+      "RTC"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Crosswind associated with a landing on a contaminated runway may lead to increased landing distance due du directional control requirement related to use of differential braking and / or discontinued use of reverse thrust.",
+    "ei_ref": "EI 128",
+    "ei_label": "Reverse-thrust effect in wind and on a wet runway or a contaminated runway",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "OM PART A § 8.1.2.4.7/8 LDG FIELD LENGHT REQUIREMENTS",
+      "ACTUAL LDG FIELD LENGHT",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "FCOM PRO.SPO.11.1.2 MAXIMUM RECOMMENDED CROSSWIND",
+      "FCOM PRO.SPO.11.4 CONTAMINATED RUNWAY",
+      "LDTA",
+      "FDA program"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "UE 01",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Flight crew are expected not to accept ATC instructions that are not compatible with their aircraft's performance ( like short turn-in to intercept the Glide slope from above) that might compromise the compagnie stabilisation in approach criteria",
+    "ei_ref": "EI 129",
+    "ei_label": "Lack of awareness of stabilized approach criteria",
+    "consequence": "2",
+    "barriers": [
+      "Strict respect of OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "FDA program"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Delay inproviding flight crew with critical runway condition information: runway friction, braking action and runway surface description\r\n\r\nRapidly changing runway condition that may affect flight safety",
+    "ei_ref": "EI 130",
+    "ei_label": "Failure to provide timely or accurate runway condition to pilots",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted on OM PARTA OM PART A",
+      "§ 8.1.2.4.7/8 LDG FIELD LENGHT REQUIREMENTS",
+      "ACTUAL LDG FIELD LENGHT",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "FCOM PRO.SPO.11 CONTAMINATED RUNWAY"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Delay in the preparation and execution of the flights. Flight safety potentially undermined (no weather forecasts, nor any information on the ATC situation, etc.)\r\n\r\nRapidly changing wind or  runway condition that may affect flight safety",
+    "ei_ref": "EI 131",
+    "ei_label": "Failure to provide timely and accurate weather condition to pilots",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures depicted on OM PARTA OM PART A",
+      "§ 8.1.2.4.7/8 LDG FIELD LENGHT REQUIREMENTS",
+      "ACTUAL LDG FIELD LENGHT",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "FCOM PRO.SPO.11 CONTAMINATED RUNWAY"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "UE 01",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "• Some runways are not grooved \r\n• Grooved runways allow water to flow off of the runway quicker, resulting significant reductions in wet landing stopping distance, reducing hydroplaning during wet weather.",
+    "ei_ref": "EI 132",
+    "ei_label": "Runways are not maintained to minimize effective friction and drainage",
+    "consequence": "8",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "OM PARTA OM PART A § 8.1.2.4.7/8 LDG FIELD LENGHT REQUIREMENTS",
+      "ACTUAL LDG FIELD LENGHT",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "FCOM PRO.SPO.11 CONTAMINATED RUNWAY"
+    ],
+    "risk": "4B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Delay inproviding flight crew with critical runway condition information: runway friction, braking action and runway surface description\r\n\r\nRapidly changing runway condition that may affect flight safety",
+    "ei_ref": "EI 133",
+    "ei_label": "Inaccurate runway condition reports",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "OM PARTA OM PART A § 8.1.2.4.7/8 LDG FIELD LENGHT REQUIREMENTS",
+      "ACTUAL LDG FIELD LENGHT",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "FCOM PRO.SPO.11 CONTAMINATED RUNWAY"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Inadequate RESA  increases the risk of damage to airplanes and its occupants injury in the event of an undershoot, overshoot, or excursion from the runway",
+    "ei_ref": "EI 134",
+    "ei_label": "Inadequate runway end safety areas (RESAs)",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect of procedures depicted on :",
+      "OM PARTA OM PART A § 8.1.2.4.7/8 LDG FIELD LENGHT REQUIREMENTS",
+      "ACTUAL LDG FIELD LENGHT",
+      "FCOM PER.10.1 LANDING DISTANCES",
+      "FCOM PRO.SPO.11 CONTAMINATED RUNWAY",
+      "Management is part of National and local Runway Safety Committee"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 01",
+    "ue_label": "Delay of providing flight crew with critical runway condition information: runway friction, braking action and runway surface description\r\n\r\nRapidly changing runway condition that may affect flight safety",
+    "ei_ref": "EI 135",
+    "ei_label": "Lack of timely NOTAM issuance of on Runway condition",
+    "consequence": "6",
+    "barriers": [
+      "Aeronautical Information Publication",
+      "Jeppesen",
+      "Management is part of National and local Runway Safety Committee"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "Les équipages doivent apprendre à gérer toute forme de distraction pouvant dévier leur attention en particulier lors des phases critiques du vol tel l'approche d'une piste en service",
+    "ei_ref": "EI 21",
+    "ei_label": "Gestion inadéquate de la distraction à bord par l'équipage",
+    "consequence": "15",
+    "barriers": [
+      "Sterile cockpit concept",
+      "HF and CRM training",
+      "Implementation of a system of Feedback"
+    ],
+    "risk": "3E",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "Une gestion inadaptée de l'attention pourrait induire une perte de conscience de la situation et engendrer une incursion sur piste",
+    "ei_ref": "EI 22",
+    "ei_label": "Travail tête basse durant roulage (Workload Management)",
+    "consequence": "12",
+    "barriers": [
+      "HF and CRM training",
+      "Sterile cockpit concept",
+      "OM Part A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION"
+    ],
+    "risk": "3D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "One aspect of situational awareness is pilots knowing where they are and where they want to go, as well as visualizing a picture of the airport traffic in the vicinity. Even during daylight and in good visibility, pilots can get lost. Even worse is the situation where pilots think they \r\nknow their position, but find themselves elsewhere. In darkness or low visibility conditions, additional care must be taken to ensure that accuracy in navigation on the ground and the highest degree of situational awareness is maintained by all members of the flight crew",
+    "ei_ref": "EI 23",
+    "ei_label": "Perte de conscience de la situation durant roulage",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in OM Part A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION",
+      "HF and CRM training (Distraction + gestion de l'attention module)"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "Alertness for mandatory signs, markings, stop bars and runway guard lights.",
+    "ei_ref": "EI 24",
+    "ei_label": "Marquages au sol non conformes ou invisibles cause contaminant ou reflet du soleil",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures depicted OM Part A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "Confusing signs, markings or stop bars",
+    "ei_ref": "EI 25",
+    "ei_label": "Airport layout",
+    "consequence": "12",
+    "barriers": [
+      "Sterile cockpit concept",
+      "Strict respect of procedures depicted in OM Part A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION",
+      "Respect of NOTAMs and JEPPESEN AIRPORT BREIFING"
+    ],
+    "risk": "3D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "During movement of the aircraft the flight crew must be able to focus on their duties without being distracted by non-flight-related matters.",
+    "ei_ref": "EI 26",
+    "ei_label": "Non respect du concept de cockpit stérile",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in OM PART A  :",
+      "§ 14.2.2.1.2 RUNWAY INCURSION PREVENTION",
+      "§ 8.3.12.3 STERILE COCKPIT POLICY"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "While the language normally used by the station on the ground or the English language is allowed, the use of standard aviation English at international aerodromes will enhance the situational awareness of all those listening on the frequency.",
+    "ei_ref": "EI 27",
+    "ei_label": "Non respect de la phraséologie standard et des SOPs communications ATC destinés à prévenir les incursions sur piste",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect of procedures depicted in OM PART A  :",
+      "§ 14.2.2.1.2 RUNWAY INCURSION PREVENTION",
+      "§ 8.3.12.3 STERILE COCKPIT POLICY"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "UE 02",
+    "ei_ref": "EI 28",
+    "ei_label": "Attérissage ou tentative d'atterrissage sur une voie de circulation",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in OM PART A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "UE 02",
+    "ei_ref": "EI 29",
+    "ei_label": "Atterissage non autorisé sur piste toujours occupée",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in OM PART A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 02",
+    "ue_label": "UE 02",
+    "ei_ref": "EI 210",
+    "ei_label": "Mauvaise compréhension\r\net/ou non respect des clearance ATC",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in OM PART A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Vigilance in night flights or in a simulator is altered by unsuitable rest periods before and after the flight \r\n\r\nor\r\n\r\nThe high number of flight slots during the day affects the pilot's level of vigilance and alters the safe execution of the flight",
+    "ei_ref": "EI 31",
+    "ei_label": "Fatigue qui réduit les facultés cognitives",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect to OM part A § 6.4.4 Fatigue",
+      "SLEEP and REST",
+      "and Chap.7 FLIGHT TIME LIMITATION",
+      "Implementation of a system of Feedback",
+      "information to the HF",
+      "CRM",
+      "SMS",
+      "etc.",
+      "Close analysis and feedback to \"Production department\" of crew's Fatigue reports."
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "The Bias to press on the approach as planned is amongst the largest contributors of unstabilized approaches\r\n\r\nTime pressures, urgent need to complete the mission taking precedence over safety essentials",
+    "ei_ref": "EI 32",
+    "ei_label": "Conflit d’objectif entre les impératifs de sécurité et la mission de poursuivre le projet d’action (biais naturel) avec en sus le souci du respect de la ponctualité et l’optimisation du profil économique du vol",
+    "consequence": "4",
+    "barriers": [
+      "HF and CRM training",
+      "Strict respect of the procedures depicted in OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "FDA program",
+      "Accountable executive safety policy"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Flight crew are expected not to accept ATC instructions that are not compatible with their aircraft's performance ( like short turn-in to intercept the Glide slope from above) that might compromise the company stabilisation in approach criteria",
+    "ei_ref": "EI 33",
+    "ei_label": "Instructions ATC en cap, vitesse et altitude incompatibles avec les performances de l’avion surtout en cas de composante arrière de vent non pris en compte. Ceci inclut les « short turn-in » proposés par l’ATC cause trafic et/ou les branches de vent arrière trop courte",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures depicted on OM PARTA § 14.2.2.5.1 STABILIZED APPROACH"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Une gestion inadaptée de l'attention pourrait induire une perte de conscience de la situationet conduire ainsi à une approche non stabilisée.",
+    "ei_ref": "EI 34",
+    "ei_label": "Reprogrammation FMC et travail en tète basse au cours de l’approche",
+    "consequence": "4",
+    "barriers": [
+      "HF and CRM training (Distraction + gestion de l'attention module)"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "A last minute runway change on the initiative of the crew or ATC without adequate preparation may jeapordize the calibration of the approach to meet the stabilisation approach criteria.",
+    "ei_ref": "EI 35",
+    "ei_label": "Changement de piste sans tenir compte du temps dont a besoin l’équipage pour re-calibrer l’approche",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "OM PART A §14.2.2.5.1 STABILIZED APPROACH § Chap.14 RAM EXPRESS POLICY",
+      "HF and CRM training (Gestion de la charge de travail)"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Inadequate energy management during the approach due to mis-handling of aircraft position and corresponding configuration and thrust",
+    "ei_ref": "EI 36",
+    "ei_label": "Gestion inappropriée de l’énergie de l’avion au cours de l’approche : inadéquation entre la puissance sélectée, la vitesse et la position de l’avion par rapport au profil nominal de descente",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "OM PART A § 14.2.2.5.1 STABILIZED APPROACH and § Chap.14 RAM EXPRESS POLICY",
+      "FDA program"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Inadequate calibration of the final segment due to automation mis-handling during the approach (< 500ft)",
+    "ei_ref": "EI 37",
+    "ei_label": "Gestion inappropriée des automatismes de vol qui inclut les situations où l’auto-pilot n’intercepte pas le GLIDE SLOPE qui alourdit ensuite la charge de travail de l’équipage pour rattraper la situation",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of Stabilised Approach Criteria as described in OM PART A",
+      "§  14.2.2.5.1 STABILIZED APPROACH",
+      "Chap.14 RAM EXPRESS POLICY",
+      "§ 14.3.2 THREAT AND ERROR MANAGEMENT",
+      "HF and CRM training"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Loss of situational awareness due ommission to identify FAF may jeopardise the safety of the flight and lead to an unstabilized approach",
+    "ei_ref": "EI 38",
+    "ei_label": "Descente prématurée ou tardive par rapport au segment final cause absence d’identification par les moyens radios du FAF ou représentation spatiale incorrecte de la position de l’avion par rapport à ce segment final y compris lors d’une approche à vue.",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of Stabilized Approach as described in OM PART A § 14.2.2.3 APPROACH and OM PART A § 14.3.2 THREAT AND ERROR MANAGEMENT",
+      "HF and CRM training",
+      "FDA PROGRAM"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Inadequate energy management during the approach due to lack of anticipation of the various threats (hight final approach path angle, tailwind, convective weather, etc…) or late landing configuration (< 500 ft)",
+    "ei_ref": "EI 39",
+    "ei_label": "Non anticipation ou non intégration de la composante de vent, des phénomènes aérologiques (gradient de vent locaux) ou d'un plan élevé de l'approche finale dans la gestion de l’approche.",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of Stabilized Approach as described in OM PART A § 14.2.2.3 APPROACH and OM PART A § 14.3.2 THREAT AND ERROR MANAGEMENT",
+      "HF and CRM training (Threat and error management)",
+      "FDA program"
+    ],
+    "risk": "",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Inadequate calibration of the final segment due to lack of anticipation of the various threats (ATCO's shortcuts, ATC sequencing and restrictions,...etc) (< 500 ft)",
+    "ei_ref": "EI 39a",
+    "ei_label": "Gestion inappropriée des instructions ATC",
+    "consequence": "4",
+    "barriers": [
+      "HF and CRM training  (Threat and Error Management",
+      "Leadership/Assertiveness)",
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH and OM PART A § 14.3.2 THREAT AND ERROR MANAGEMENT"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Flight Crew intentionally performing an idle thrust approach (< 500 ft)",
+    "ei_ref": "EI 39b",
+    "ei_label": "Le PF avec le consentement du PM tente d'effectuer une approche tout réduit",
+    "consequence": "6",
+    "barriers": [
+      "HF and CRM training  (Threat and Error Management",
+      "Leadership/Assertiveness)",
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH and OM PART A § 14.3.2 THREAT AND ERROR MANAGEMENT"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Inadequate calibration of the final segment are frequent contributors to unstabilized approach",
+    "ei_ref": "EI 310",
+    "ei_label": "Anticipation incorrecte des caractéristiques de décélération de l’avion sur le profil de descente de l’approche ou sur le segment intermédiaire par mise en configuration de l’avion au moment approprié pour respecter les critères de stabilité.",
+    "consequence": "4",
+    "barriers": [
+      "HF and CRM training",
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH  and OM PART A § 14.2.2.5.1 STABILIZED APPROACH"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Strained relations between members of the team or the crew or any alteration in communication prejudicial to flight safety",
+    "ei_ref": "EI 311",
+    "ei_label": "Confiance mutuelle entre le PM qui compte sur le PF pour rattraper la situation et le PF qui compte sur le PM pour effectuer les annonces standards de limite déviation",
+    "consequence": "8",
+    "barriers": [
+      "Strict respect of Stabilized Approach Criteria as described in :",
+      "OM PART A § 14.2.1.4 POLICY ON USE OF STD CALLOUTS",
+      "OM PART A § 14.3 CRM AND TEM IN OPS"
+    ],
+    "risk": "4B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Late Final Flap extension (< 500 ft AGL)",
+    "ei_ref": "EI 312",
+    "ei_label": "Approche rapide ou non application des SOPs conduisant à une sélection des volets atterrissage en dessous de 500 ft",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH  and OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "HF and CRM training  (Threat and Error Management",
+      "Leadership/Assertiveness)"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Late Final Flap extension (< 200 ft AGL)",
+    "ei_ref": "EI 312a",
+    "ei_label": "Approche rapide ou non application des SOPs conduisant à une sélection des volets atterrissage en dessous de 200 ft",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH  and OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "HF and CRM training  (Threat and Error Management",
+      "Leadership/Assertiveness)"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Final Flap position not valid for landing (< 500 ft AGL)",
+    "ei_ref": "EI 313",
+    "ei_label": "Non application des SOPs et des vérifications visuelles de la position des volets conduisant à un atterrissage avec une configuration volets non approuvée par le constructeur",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH  and OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "HF and CRM training  (Threat and Error Management",
+      "Leadership/Assertiveness)"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Final Flap position not valid for landing (< 200 ft AGL)",
+    "ei_ref": "EI 313a",
+    "ei_label": "Non application des SOPs et des vérifications visuelles de la position des volets conduisant à un atterrissage avec une configuration volets non approuvée par le constructeur",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH  and OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "HF and CRM training  (Threat and Error Management",
+      "Leadership/Assertiveness)"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 03",
+    "ue_label": "Présence de vents forts conduisant à une RDG",
+    "ei_ref": "EI 314",
+    "ei_label": "Phénomènes MTO affectant le mantien d'une approche stabilisée",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH  and OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+      "HF and CRM training  (Threat and Error Management",
+      "Leadership/Assertiveness)"
+    ],
+    "risk": "2C",
+    "updated_on": "45761"
+  },
+  {
+    "ue_ref": "UE 04",
+    "ue_label": "Collision in flight likely to cause structural damage, on the wing leading edge or flaps or Rudder or Horitontal Stabilizer\r\n\r\nLoss of pressurization control: Collision in flight at high speed on a pressurized part of the fuselage (like the Radome) that is likely to pucture the structure.",
+    "ei_ref": "EI 41",
+    "ei_label": "Damage To Aircraft Hull",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE"
+    ],
+    "risk": "1D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 04",
+    "ue_label": "Collision in flight likely to cause engine severe damage that may lead to engine flame out and or stall",
+    "ei_ref": "EI 42",
+    "ei_label": "Bird Ingestion Into One Engine",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 04",
+    "ue_label": "Collision likely to cause structural damage on Landing Gear Components",
+    "ei_ref": "EI 43",
+    "ei_label": "Damage to Landing Gear During Takeoff",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 04",
+    "ue_label": "Collision likely to cause structural damage on Landing Gear Components",
+    "ei_ref": "EI 44",
+    "ei_label": "Damage to Landing Gear During Landing",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 04",
+    "ue_label": "No warning of any bird Hazard on NOTAM, ATIS, or ATC.\r\n\r\nNo Takeoff or approach Briefing of the Bird Hazard threat.",
+    "ei_ref": "EI 45",
+    "ei_label": "No NOTAM, No ATC Information",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect for the OPS manual :",
+      "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE",
+      "OM PART A § 14.3.2.3.1 THREATS"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 04",
+    "ue_label": "Collision with no damage.",
+    "ei_ref": "EI 46",
+    "ei_label": "Single or Multiple Bird Strike(s) with no Damage.",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect for the OPS manual :",
+      "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE",
+      "OM PART A § 14.3.2.3.1 THREATS"
+    ],
+    "risk": "4A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 04",
+    "ue_label": "Bird Strike reported by ATC or previous traffic conducting in a runway inspection",
+    "ei_ref": "EI 47",
+    "ei_label": "Bird Strike reported with no dammage",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect for the OPS manual :",
+      "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE",
+      "OM PART A § 14.3.2.3.1 THREATS"
+    ],
+    "risk": "4A",
+    "updated_on": "45762"
+  },
+  {
+    "ue_ref": "UE 05",
+    "ue_label": "Inadvertent Penetration with Weather Radar OFF, during day or night : \r\n\r\nMay lead to structural damage to the aircraft by load factor, may also lead to a loss of control during flight\r\n\r\nHeavy Rain + Hail may lead to engine flameout or structural damage to the aircraft",
+    "ei_ref": "EI 51",
+    "ei_label": "Pénétration en CAT / WS / TS",
+    "consequence": "9",
+    "barriers": [
+      "OM PART A § 8.3.8 ADVERSE AND POTENTIALLY HAZARDOUS ATMOSPHERIC CONDITIONS"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 05",
+    "ue_label": "Givrage intense des sondes TAT, PITOT provoquant des alarmes intempestives au cockpit et / ou indications erronnées",
+    "ei_ref": "EI 52",
+    "ei_label": "Perte multiple d'indications aérodynamiques",
+    "consequence": "",
+    "barriers": [
+      "Strict respect of procedures depicted in: AFM PRO.NOP.ANOR.1.2 ATMOSPHERIC ICING CONDITIONS",
+      "FCOM PRO.NOP.ANOR.8.1.1 IN FLIGHT ICING CONDITIONS",
+      "FCOM PRO.NNO.ABN.30.6 SEVERE ICING DETECTION",
+      "QRH 99.10 UNRELIABLE AIRSPEED",
+      "RTC",
+      "FDA program"
+    ],
+    "risk": "",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 05",
+    "ue_label": "Flight in Airspace with Contamination of Volcanic Ash may lead, depending on concentration, to considerable degradation on the engines, airframe, cloggeg pitot tubes, obscured windscreen due abrasion etc…",
+    "ei_ref": "EI 53",
+    "ei_label": "Penetration in airspace with Volcanic Ash",
+    "consequence": "0",
+    "barriers": [
+      "Strict respect of procedures depicted in FCOM PRO.NOP.ANOR.8.4 VOLCANIC ASH ENCOUNTER"
+    ],
+    "risk": "",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 05",
+    "ue_label": "Inappropriate reaction on flight controls in situations of surprise or startle\r\n\r\nSevere tubulence leading to High / low speed buffet penetration",
+    "ei_ref": "EI 54",
+    "ei_label": "Sortie du domaine de vol affectant la navigabilité de l'aéronef",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures depicted in FCOM and QRH Upset recovery & approach to stall or stall recovery",
+      "FDA program"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 05",
+    "ue_label": "Vertical and/or horizontal deviation event leading to loss of speration with nearby traffic or minimum safe altitude infrigment.",
+    "ei_ref": "EI 55",
+    "ei_label": "Ecart avion non conscient dans le plan vertical et/ou horizontal par rapport à la trajectoire prévue/ assignée, entrainant une perte de séparation verticale avec les obstacles et/ou horizontale avec les autres trafics",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures  and training in case of TCAS alarms or GPWS caution or warning obstacle (enhanced GPWS with look ahead feature)"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 05",
+    "ue_label": "Subtle sometimes difficult to detect pilot incapacitation which may affect flight safety following severe weather encounter (lightning, severe turbulence or other).",
+    "ei_ref": "EI 56",
+    "ei_label": "Incapacité équipage affectant la pilotabilité et qui est due à la rencontre de phénomènes météo dangereux",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures OM PART A § 8.3.14 INCAPACITATION OF CREW MEMBERS"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 05",
+    "ue_label": "Inappropriate reaction on flight controls  in situations of surprise or startle",
+    "ei_ref": "EI 57",
+    "ei_label": "Action sur les gouvernes inappropriée au contrôle de l'avion",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in FCOM and QRH Upset recovery & approach to stall or stall recovery",
+      "FDA program"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "Inappropriate reaction on flight controls  in situations of surprise or startle",
+    "ei_ref": "EI 61",
+    "ei_label": "Action sur les gouvernes inappropriée au contrôle de l'avion",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures depicted in QRH Upset recovery & approach to stall or stall recovery",
+      "FDA program"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "The instructor may be surprised by an unexpected reaction by the trainee. This event is more Tolerable if it occurs away from  the ground and during delicate piloting phases.",
+    "ei_ref": "EI 62",
+    "ei_label": "Flight training: inappropriate reaction by the trainee",
+    "consequence": "0",
+    "barriers": [
+      "Strict respect of procedures depicted in OM PART D § 2.1.14.3 RAM EXPRESS LIFUS GENERAL REVIEW"
+    ],
+    "risk": "",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 06",
+    "ue_label": "UE 06",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 71",
+    "ei_label": "Pressurisation failure due Air leak",
+    "consequence": "6",
+    "barriers": [
+      "OM PART D § 2.2.4 RECCURENT TRAINING",
+      "FCOM / QRH EXCESS CAB ALT and EMERGENCY DESCENT",
+      "COM § 9.6 DEPRESSURIZATION",
+      "RECCURENT TRAINING Depressurization (effects on crew and passengers",
+      "emergency procedures)"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 72",
+    "ei_label": "Pressurisation failure due Control or Configuration problem",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 73",
+    "ei_label": "Pressurisation failure due Door problem",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 74",
+    "ei_label": "Pressurisation failure due Engine failure",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 75",
+    "ei_label": "Pressurisation failure due Maintenance error",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 76",
+    "ei_label": "Pressurisation failure due Crew error",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 77",
+    "ei_label": "Pressurisation failure due System Failure",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 78",
+    "ei_label": "Pressurisation failure due Seal problem",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 79",
+    "ei_label": "Pressurisation failure due Structural problem",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 710",
+    "ei_label": "Pressurisation failure due Window failure",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "Failure of the pressurisation system to maintain a cabin altitude of less than 10,000 feet potentially exposes the aircraft occupants to a high ambient altitude, with a significant potential risk of developing hypoxia.",
+    "ei_ref": "EI 711",
+    "ei_label": "Crew experiencing a degree of physiological \r\nimpairment or symptoms of the hostile environment at altitude such as \r\ndecompression illness, thermal injury or hypoxia",
+    "consequence": "6",
+    "barriers": [],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "UE 07",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 07",
+    "ue_label": "UE 07",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Inapropriate attitude, inability with multitask environment which may lead to a hazardous situation",
+    "ei_ref": "EI 81",
+    "ei_label": "Pre-requisite for the recruitment of pilots in general",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of provisions OM PART D 1.4 RECRUITMENT."
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "No monitoring of the renewing of qualification which may lead to withdrawal of a qualification,",
+    "ei_ref": "EI 82",
+    "ei_label": "Retaining qualifications",
+    "consequence": "4",
+    "barriers": [
+      "Software to ensure follow up qualification and refresher courses for staff with associated alarms"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Forgetting to plan non-recurrent training missions leading to a loss of qualification or competence. No software update available to ensure this skill is maintained. No monitoring of flying hours.",
+    "ei_ref": "EI 82a",
+    "ei_label": "Maintaining skills",
+    "consequence": "4",
+    "barriers": [
+      "Software to ensure follow up qualification and refresher courses for staff with associated alarms"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Pre-requisites or past experience insufficient for the type of mission and can creat a hazardous situation",
+    "ei_ref": "EI 82b",
+    "ei_label": "Composition of the crew - copilot",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures in OM PART A § 4.1.1.3 CREWING OF INEXPERIENCED FLIGHT CREW MEMBERS"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Although holding an up-to-date type rating, the captain may not have the necessary experience nor the expertise required for the pre-requisites of the coplit",
+    "ei_ref": "EI 82c",
+    "ei_label": "Composition of the crew - captain",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect of procedures in OM PART A § 4.1.1.3 CREWING OF INEXPERIENCED FLIGHT CREW MEMBERS"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Vigilance in night flights or in a simulator is altered by unsuitable rest periods before and after the flight or\r\n\r\nThe high number of flight slots during the day affects the pilot's level of vigilance and alters the safe execution of the flight",
+    "ei_ref": "EI 83",
+    "ei_label": "Fatigue qui réduit les facultés cognitives",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect for the OPS manual :",
+      "OM part A § § 6.4.4 FATIGUE",
+      "REST AND REST",
+      "OM PART A Chap.7 FLIGHT TIME LIMITATIONS",
+      "OM PART A § 8.3.10.2 CONTROLLED REST ON THE FLIGHT DECK",
+      "Close analysis and feedback to \"Production department\" of crew's Fatigue reports."
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Fatigue or stress reported by Flight Crew which either directly or potentially affected safety standards, which is due to inappropriate accomodation conditions",
+    "ei_ref": "EI83a",
+    "ei_label": "Fatigue due to inappropriate accomodation conditions",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect for the OPS manual :",
+      "OM part A § § 6.4.4 FATIGUE",
+      "REST AND REST",
+      "OM PART A Chap.7 FLIGHT TIME LIMITATIONS",
+      "OM PART A § 8.3.10.2 CONTROLLED REST ON THE FLIGHT DECK",
+      "Regulatory rest requirements                     Accomodation standards"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Fatigue or stress reported by Flight Crew which either directly or potentially affected safety standards, which is due to specific flight scheduling",
+    "ei_ref": "EI83b",
+    "ei_label": "Fatigue due to specific flight scheduling",
+    "consequence": "8",
+    "barriers": [
+      "Strict respect for the OPS manual :",
+      "OM part A § § 6.4.4 FATIGUE",
+      "REST AND REST",
+      "OM PART A Chap.7 FLIGHT TIME LIMITATIONS",
+      "OM PART A § 8.3.10.2 CONTROLLED REST ON THE FLIGHT DECK",
+      "Regulatory rest requirements                     Scheduling practices                                     Napping procedures                                             Fatigue rate report monitoring"
+    ],
+    "risk": "4B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Fatigue or stress reported by Flight Crew which either directly or potentially affected safety standards, which is due to multiple flight sequence schedule",
+    "ei_ref": "EI83c",
+    "ei_label": "Fatigue due to multiple flight sequence schedule",
+    "consequence": "8",
+    "barriers": [
+      "Strict respect for the OPS manual :",
+      "OM part A § § 6.4.4 FATIGUE",
+      "REST AND REST",
+      "OM PART A Chap.7 FLIGHT TIME LIMITATIONS",
+      "OM PART A § 8.3.10.2 CONTROLLED REST ON THE FLIGHT DECK",
+      "Regulatory rest requirements                     Scheduling practices                                     Napping procedures                                             Fatigue rate report monitoring"
+    ],
+    "risk": "4B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "An illness to a member of flight crew which render him incapacitated",
+    "ei_ref": "EI83d",
+    "ei_label": "Pilot incapacitation",
+    "consequence": "8",
+    "barriers": [
+      "Strict respect pf procedures in :",
+      "OM PART A § 4.3 CREW INCAPACITATION AND CHAIN OF COMMAND",
+      "OM PART A 8.3.14 INCAPACITATION OF CREW MEMBERS"
+    ],
+    "risk": "2D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Postflight flight crew intoxication",
+    "ei_ref": "EI83e",
+    "ei_label": "Postflight flight crew intoxication",
+    "consequence": "6",
+    "barriers": [
+      "OM PART A § 6.1.2 ILLNESS OR INCAPACITATION WHILE ON DUTY"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Flight after a Full Flight Simulator session leading to sensory illusions + usual sensory illusions.",
+    "ei_ref": "EI 84",
+    "ei_label": "Sensory illusions",
+    "consequence": "2",
+    "barriers": [
+      "HF and CRM training (sensory illusions)",
+      "Determination of a minimum time for which flying is prohibited after an FFS session. Procédure Métier PM 30 p6 & 7 DOA."
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Alteration in communication prejudicial to flight safety",
+    "ei_ref": "EI 85",
+    "ei_label": "Strained relations between members of the team or the crew",
+    "consequence": "4",
+    "barriers": [
+      "Fleet Manager may decide to change crew composition."
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Violation, which may jeopardize the safety of the flight",
+    "ei_ref": "EI 86",
+    "ei_label": "Indiscipline during flight - captain",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "check",
+      "list",
+      "ATC instructions and instruction programs"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Violation, failure to respect the authority of the captain, which may compromise the safety of the flight",
+    "ei_ref": "EI 87",
+    "ei_label": "Indiscipline during flight - copilot",
+    "consequence": "4",
+    "barriers": [
+      "Strict respect for the OPS manual",
+      "check",
+      "list",
+      "ATC instructions and instruction programs"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Violation which may compromise the safety of the flight",
+    "ei_ref": "EI 88",
+    "ei_label": "Excessive confidence - captain",
+    "consequence": "4",
+    "barriers": [
+      "HF and CRM training",
+      "Communication And Management Skills of FLT CREW MEMBER in OM PART D § 2.11 CRM (Crew Resources Management)"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Violation, failure to respect the authority of the captain, which may compromise the safety of the flight",
+    "ei_ref": "EI 89",
+    "ei_label": "Excessive confidence - copilot",
+    "consequence": "4",
+    "barriers": [
+      "HF and CRM training",
+      "Communication And Management Skills of FLT CREW MEMBER in OM PART D § 2.11 CRM (Crew Resources Management)"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Alteration of the mental state prejudicial to the safe completion of flights",
+    "ei_ref": "EI 810",
+    "ei_label": "Medication, Drugs, Alcohol - Crew member",
+    "consequence": "4",
+    "barriers": [
+      "Reminding the crew member of the dangers relating to self",
+      "medication and the use of psychoactive subtances"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Incidents, Tolerable incidents, accidents, etc.",
+    "ei_ref": "EI 811",
+    "ei_label": "Errors, unsafe acts",
+    "consequence": "0",
+    "barriers": [
+      "HF & CRM Training",
+      "JUST CULTURE Policy : Assuring employees that the reporting of unintentional errors does not result in disciplinary or punitive action being taken against the reporter or other individuals involved unless such errors result from illegal activity",
+      "wilful misconduct or other egregious actions"
+    ],
+    "risk": "",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Excessive bank angle with autopilot not engaged (BANK ANGLE alert) may lead to approach to stall and to stall event",
+    "ei_ref": "EI 812",
+    "ei_label": "Unintentional bank deviation due to distraction and leading to upset Aircraft State with High Bank Angle ( α > 30°)",
+    "consequence": "4",
+    "barriers": [
+      "Aural alarm \"Bank Angle\"",
+      "Flight Crew Instruments Monitoring",
+      "GPWS Aural Caution & Warning alerts : Reactive & Predictive Modes",
+      "Simulator Training Session to develop the Manual Flying Skills of flight crews."
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Unsafe terrain closure due to vertical and/or horizontal flight path deviation :\r\n\"TERRAIN TERRAIN\", \"PULL UP\", \"TERRAIN AHEAD\", \"TOO LOW TERRAIN\", \"OBSTACLE AHEAD\", \"TERRAIN AHEAD,PULL UP\", \"OBSTACLE AHEAD,PULL UP\", \"AVOID TERRAIN\", \"AVOID OBSTACLE\"  alerts",
+    "ei_ref": "EI 812a",
+    "ei_label": "Unconscious aircraft deviation in the vertical and/or horizontal flight path leading to a loss of vertical separation with obstacles",
+    "consequence": "9",
+    "barriers": [
+      "GPWS Aural Caution & Warning alerts",
+      "Strict respect of procedures and training in case of GPWS caution or warning obstacle",
+      "Simulator Training Session to develop the Manual Flying Skills of flight crews"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Unsafe terrain closure with continued excessive descent rate following SINK RATE alert",
+    "ei_ref": "EI 812b",
+    "ei_label": "Unconscious aircraft deviation in the vertical flight path leading to a loss of vertical separation with obstacles",
+    "consequence": "6",
+    "barriers": [
+      "GPWS Aural Caution & Warning alerts",
+      "Strict respect of procedures and training in case of GPWS caution or warning obstacle",
+      "Simulator Training Session to develop the Manual Flying Skills of flight crews"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Unsafe terrain clearance at high airspeed with either landing gear not down or flaps not in landing position (\"TOO LOW TERRAIN\" alert)",
+    "ei_ref": "EI 812c",
+    "ei_label": "Unsafe terrain clearance at high airspeed with either landing gear not down or flaps not in landing position (Radio Altitude based Alerts) or descent below unsafe radio altitude while too far from any airport in the terrain database (Look ahead function)",
+    "consequence": "6",
+    "barriers": [
+      "GPWS Aural Caution & Warning alerts",
+      "Strict respect of procedures and training in case of GPWS caution or warning obstacle",
+      "Simulator Training Session to develop the Manual Flying Skills of flight crews"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Unsafe terrain clearance at low airspeed with flaps not in a normal landing position (\"TOO LOW FLAPS\" , \"TOO LOW GEAR\" alerts)",
+    "ei_ref": "EI 812d",
+    "ei_label": "Unsafe terrain clearance at low airspeed with flaps and/or landing gear not in a normal landing position",
+    "consequence": "9",
+    "barriers": [
+      "GPWS Aural Caution & Warning alerts",
+      "Strict respect of procedures and training in case of GPWS caution or warning obstacle",
+      "Simulator Training Session to develop the Manual Flying Skills of flight crews"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Unsafe terrain proximity due to excessive deviation below glide slope  of more than 1.3 dots (\"GLIDESLOPE\" alert)",
+    "ei_ref": "EI 812e",
+    "ei_label": "Excessive deviation below Glideslope",
+    "consequence": "6",
+    "barriers": [
+      "GPWS Aural Caution & Warning alerts",
+      "Strict respect of procedures and training in case of GPWS caution or warning obstacle",
+      "Simulator Training Session to develop the Manual Flying Skills of flight crews"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Wrong alarm leading to Flight Crew disturbance\r\n\r\nWarning cause cannot be identified immediately",
+    "ei_ref": "EI 812f",
+    "ei_label": "Unsafe terrain closure",
+    "consequence": "3",
+    "barriers": [
+      "GPWS Aural Caution & Warning alerts",
+      "Strict respect of procedures and training in case of GPWS caution or warning obstacle",
+      "Simulator Training Session to develop the Manual Flying Skills of flight crews"
+    ],
+    "risk": "3A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Overweight landing due to air turnback, diversion or enroute shortcuts that may lead to landing gear Structural damage and Fatigue",
+    "ei_ref": "EI 813",
+    "ei_label": "Landing weight above Maximum Structural Weight for landing",
+    "consequence": "6",
+    "barriers": [
+      "OM PART B \"PERFOMANCE\" Chap.H § 6.2 OVERWEIGHT LANDING",
+      "OM PART A § 11.5.1 MANDATORY OCCURRENCE REPORT",
+      "FDA Program Monitoring"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Flap placard speed exceedance (aural alarm CLACKER)",
+    "ei_ref": "EI 814",
+    "ei_label": "An event involving exceedance of the maximum Flaps Extended Operating Speeds VFE",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures according to SOP's and",
+      "FCOM § LIM.3.1.3 MAXIMUM FLAPS EXTENDED OPERATING SPEEDS",
+      "OM PART A § 11.5.1 MANDATORY OCCURRENCE REPORT",
+      "FDA Program Monitoring"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Landing gear placard speed exceedance VLE/VLO due to rushed, mis-calibrated approach (aural alarm CLACKER)",
+    "ei_ref": "EI 815",
+    "ei_label": "An event involving exceedance of the maximum landing gear extended and operating speeds VLE/VLO",
+    "consequence": "2",
+    "barriers": [
+      "Strict respect of procedures according to SOP's and",
+      "FCOM § LIM.3.1.4 MAXIMUM LANDING GEAR EXTENDED AND OPERATING SPEEDS",
+      "OM PART A § 11.5.1 MANDATORY OCCURRENCE REPORT",
+      "FDA Program Monitoring"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 08",
+    "ue_label": "Short taxi time leading to overweight takeoff",
+    "ei_ref": "EI 816",
+    "ei_label": "Takeoff weight above Maximum Structural Weight for takeoff",
+    "consequence": "6",
+    "barriers": [
+      "OM PART B FCOM & QRH \"LIMITAIONS\"",
+      "SOP's",
+      "OM PART A § 11.5.1 MANDATORY OCCURRENCE REPORT",
+      "FDA Program Monitoring"
+    ],
+    "risk": "2C",
+    "updated_on": "45761"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "Engine Shutdown due to EEC Failure In Flight",
+    "ei_ref": "EI 101",
+    "ei_label": "Engine failure/malfunction or loss of thrust",
+    "consequence": "6",
+    "barriers": [
+      "Maintenance Monitoring",
+      "QRH 70.03 EEC FAULT"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "Engine Vibrations",
+    "ei_ref": "EI 102",
+    "ei_label": "Engine failure/malfunction or loss of thrust",
+    "consequence": "6",
+    "barriers": [
+      "Maintenance Monitoring",
+      "QRH 70",
+      "02 ENG 1(2) FIRE OR SEVERE MECHANICAL DAMAGE IN FLIGHT",
+      "FCOM PRO.NNO.E70",
+      "02 FIRE OR SEVERE MECHANICAL DAMAGE IN FLIGHT"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "Excessive bank angle with autopilot engaged leading to uncommanded roll",
+    "ei_ref": "EI 103",
+    "ei_label": "System/component failure – affecting controllability",
+    "consequence": "6",
+    "barriers": [
+      "GPWS Alert \"Bank Angle\"",
+      "OM PART A 14.2.1.1.POLICY ON THE USE OF AUTOMATION (AUTOPILOT)"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "Flaps malfunctions that may lead to runway excursion on short fields",
+    "ei_ref": "EI 104",
+    "ei_label": "System/component failure – Flaps",
+    "consequence": "6",
+    "barriers": [
+      "QRH 27.05 REDUCED FLAPS LANDING",
+      "Landing performance calculations SPS",
+      "FCOM ALD/LDTA",
+      "AFM DEV.2.4 DISPATCH WITH FLAPS RETRACTED"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "Braking with Antiskid Inoperative may lead to tire burst",
+    "ei_ref": "EI 105",
+    "ei_label": "System/component failure – ANTISKID Inoperative",
+    "consequence": "9",
+    "barriers": [
+      "QRH A.32.01 ANTISKID FAULT",
+      "AFM DEV 2.6 DISPATCH WITH ANTISKID SYSTEM INOPERATIVE",
+      "Landing performance calculation SPS"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "May lead to decompression \"DOORS UNLK\" indication",
+    "ei_ref": "EI 106",
+    "ei_label": "System/component failure – Doors",
+    "consequence": "9",
+    "barriers": [
+      "FCOM DOORS TEST",
+      "QRH A.99.02 DOORS UNLK IN FLIGHT"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "May cause ground personal injuries by omission of the flight crew",
+    "ei_ref": "EI 107",
+    "ei_label": "Propeller failure – PROP BRK",
+    "consequence": "9",
+    "barriers": [
+      "QRH A.70.21 ABNORMAL PROP BRK",
+      "Strict respect of the SOP's",
+      "FCOM NORMAL PROCEDURES"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 10",
+    "ue_label": "May affect flight safety or aircraft maneuverability",
+    "ei_ref": "EI 108",
+    "ei_label": "System/component failure after ENG(s) Start",
+    "consequence": "9",
+    "barriers": [
+      "QRH",
+      "FCOM PRO.NOP.ANOR.6 ABORTED TAKEOFF",
+      "Strict respect of the SOP's"
+    ],
+    "risk": "3C",
+    "updated_on": "45433"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "EI 121",
+    "ei_label": "Smoke detected in the avionics\r\nventilation circuit",
+    "consequence": "2",
+    "barriers": [
+      "QRH E26.02 ELECTRICAL SMOKE"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "EI 122",
+    "ei_label": "Air conditioning Smoke/Fumes",
+    "consequence": "2",
+    "barriers": [
+      "QRH E26.03 AIR COND SMOKE"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "EI 123",
+    "ei_label": "Fire detected in the Forward Cargo Compartment",
+    "consequence": "2",
+    "barriers": [
+      "QRH E26.04 FWD SMOKE",
+      "COM § 9.4.6 CARGO FIRE"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "EI 124",
+    "ei_label": "Fire detected in the AFT Cargo Comprtment",
+    "consequence": "2",
+    "barriers": [
+      "QRH E26.06 AFT SMOKE",
+      "COM § 9.4.6 CARGO FIRE"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "EI 125",
+    "ei_label": "Fire detected in the Lavatory",
+    "consequence": "2",
+    "barriers": [
+      "QRH E26.06 AFT SMOKE",
+      "COM § 9.4.5 FIRE IN THE TOILETS"
+    ],
+    "risk": "1B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "EI 126",
+    "ei_label": "Passenger smoking",
+    "consequence": "6",
+    "barriers": [
+      "OM PART A § 10.4 DISRUPTIVE/UNRULY PASSENGERS",
+      "COM § 6.10 AGGRESSIVE/UNRULY PASSENGERS"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "Dangerous goods incidents in the passenger cabin during flight involving battery/portable electronic device (PED) fire/smoke",
+    "ei_ref": "EI 127",
+    "ei_label": "Lithium Battery Fires in \r\nthe Passenger Cabin",
+    "consequence": "6",
+    "barriers": [
+      "COM § 9.4.9 LITHIUM BATTERY FIRE"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "EFB USB Power outlet fire/smoke/fumes",
+    "ei_ref": "EI 128",
+    "ei_label": "EFB Fire/Smoke",
+    "consequence": "12",
+    "barriers": [
+      "COM § 9.4.9 LITHIUM BATTERY FIRE"
+    ],
+    "risk": "3D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "system malfunction",
+    "ei_ref": "EI 129",
+    "ei_label": "liquide spillage",
+    "consequence": "3",
+    "barriers": [
+      "SB 06",
+      "2018"
+    ],
+    "risk": "1C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 12",
+    "ue_label": "UE 12",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "No information on the other traffic in the area, no real-time control service, delay in triggering a protective measure in the event of an emergency or distress",
+    "ei_ref": "EI 151",
+    "ei_label": "No ATC or No Flight Information Service",
+    "consequence": "3",
+    "barriers": [
+      "Strict respect of the procedures depicted in:",
+      "OM PART A § 8.3.6 POLICY AND PROCEDURES FOR THE USE OF ACAS",
+      "OM PART A § 12.4.2 AVOIDANCE OF COLLIOSIONS",
+      "OM PART A § 14.1.4 CREW VIGILENCE",
+      "FCOM PRO.NOP.NSU.34.1 TCAS",
+      "FCOM LIM.5.34.5 TCAS",
+      "As a complementary policy to TCAS/ACAS avoidance procedures",
+      "the flight crew shall maintain vigilance for conflicting visual traffic (“see and avoid” principle). When weather conditions permit",
+      "the flight crew should actively search for potentially conflicting traffic",
+      "especially when operating in airspace where all traffic is not operating under the instructions of ATC"
+    ],
+    "risk": "1C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "The combination of a reduction in visibility and a reduction in the level of vigilance may be prejudicial to flight safety",
+    "ei_ref": "EI 152",
+    "ei_label": "Flying period (dawn, morning, afternoon, dusk, night)",
+    "consequence": "3",
+    "barriers": [
+      "As a complementary policy to TCAS/ACAS avoidance procedures",
+      "the flight crew shall maintain vigilance for conflicting visual traffic (“see and avoid” principle). When weather conditions permit",
+      "the flight crew should actively search for potentially conflicting traffic",
+      "especially when operating in airspace where all traffic is not operating under the instructions of ATC"
+    ],
+    "risk": "1C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "No detection by secondary radar, no longer guarantee that minimum spacing between aircraft is respected, especially in congested area. Risk of mid-air collision.",
+    "ei_ref": "EI 153",
+    "ei_label": "Transponder failure",
+    "consequence": "3",
+    "barriers": [
+      "Apply the procedure set out in the national regulations of the country over which you are flying. Provide a reminder of the required conduct in the OPS manual. Depending on the type of flight",
+      "insist on this point during the pre",
+      "flight briefing."
+    ],
+    "risk": "1C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "Loss of contact with ATC and other aircraft. Danger of mid-air collision by reduction of safety spaces",
+    "ei_ref": "EI 154",
+    "ei_label": "Radio COM failure in flight",
+    "consequence": "4",
+    "barriers": [
+      "Apply the procedure set out in the national regulations of the country over which you are flying. Provide a reminder of the required conduct in the OPS manual. Depending on the type of flight",
+      "insist on this point during the pre",
+      "flight briefing."
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "Loss of separation",
+    "ei_ref": "EI 155",
+    "ei_label": "Loss of Separation due to a mistake (Crew, ATC or other traffic Error) without TA/RA Alert",
+    "consequence": "2",
+    "barriers": [
+      "Strict respect of the procedures in:",
+      "FCOM PRO.NOP.NSU.34.1 TCAS",
+      "OM PART A § 8.3.6 POLICY AND PROCEDURES FOR THE USE OF ACAS",
+      "OM PART A § 14.1.4 CREW VIGILENCE"
+    ],
+    "risk": "2A",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "Air proximity issue caused by ATC error or poor coordination between two ATC's and resulting in a TCAS resolution alert",
+    "ei_ref": "EI 156",
+    "ei_label": "Air proximity issue caused by ATC error or poor coordination between two ATC's and resulting in a TCAS resolution alert",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of the procedures in:",
+      "FCOM PRO.NOP.NSU.34.1 TCAS",
+      "OM PART A § 8.3.6 POLICY AND PROCEDURES FOR THE USE OF ACAS",
+      "OM PART A § 14.1.4 CREW VIGILENCE"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "Air proximity issue caused by cockpit crew error or misunderstanding and resulting in a TCAS resolution alert",
+    "ei_ref": "EI 156a",
+    "ei_label": "Air proximity issue caused by cockpit crew error or misunderstanding and resulting in a TCAS resolution alert",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of the procedures in:",
+      "FCOM PRO.NOP.NSU.34.1 TCAS",
+      "OM PART A § 8.3.6 POLICY AND PROCEDURES FOR THE USE OF ACAS",
+      "OM PART A § 14.1.4 CREW VIGILENCE"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "Air proximity issue caused by another traffic error and resulting in a TCAS resolution alert",
+    "ei_ref": "EI 156b",
+    "ei_label": "Air proximity issue caused by another traffic error and resulting in a TCAS resolution alert",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of the procedures in:",
+      "FCOM PRO.NOP.NSU.34.1 TCAS",
+      "OM PART A § 8.3.6 POLICY AND PROCEDURES FOR THE USE OF ACAS",
+      "OM PART A § 14.1.4 CREW VIGILENCE"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 15",
+    "ue_label": "UE 15",
+    "ei_ref": "",
+    "ei_label": "",
+    "consequence": "",
+    "barriers": [],
+    "risk": "",
+    "updated_on": ""
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "un OFP fait avec un avion erroné, si découvert en vol, représente un danger pour le déroulement du vol puisque plusieurs paramètres sont différents (performances, selcal, identification), et pourra engendrer des limitations en vols avec nécessité de déroutement.",
+    "ei_ref": "EI 171",
+    "ei_label": "ECART IMMAT AVION SUR OFP",
+    "consequence": "4",
+    "barriers": [
+      "Barrière existante: Vérification par FD de l'immatriculation au moment de l'impression météo à H",
+      "1h",
+      "tel que défini sur Manuel MPD",
+      "Barrière existante: Contrôle fait par Handler au moment de l'impression OFP où il vérifie la charge+Immatriculation",
+      "Barrière existante: Vérification faite lors du briefing du Flight Crew et enfin par le CDB à bord"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "Des profils de route abérrants, non optimisés ou ne repectant pas les limitations ou contraintes opérationnelles, si découverts en vol, peuvent induire des changements en vol, avec impact sur le fuel requis, impliquant ainsi des décisions de déroutement.",
+    "ei_ref": "EI 172",
+    "ei_label": "ECART ROUTE",
+    "consequence": "4",
+    "barriers": [
+      "Barrière existante",
+      "à travers le mode défini au niveau du Manuel MPD Section EOPV",
+      "consistant à contrôler systématique les profil de vol pour détecter toute abération",
+      "Barrière existante à travers le Contrôle fait par le CDB au moment de l'introduction sur FMC",
+      "Barrière existante entre LIDO/CFMU depuis JUN21 pour rejets des abérations au moment du dépôt FPL",
+      "Barrière existante à travers le Paramétrage systématique des Routes PRED sur LIDO",
+      "pour les vols ponctuels et sujets à autorisations"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "un Star non conforme à la réalité aéroport, si découvert en vol, peut être préjudiciable pour la quantité Fuel, et induire des décisions de déroutement.",
+    "ei_ref": "EI 173",
+    "ei_label": "ECART STAR",
+    "consequence": "4",
+    "barriers": [
+      "Barrière existante à travers la vérification systématique des STAR pendant le RAF OFP",
+      "tel que défini dans le Manuel CCO",
+      "Barrière existante au niveau de LIDO",
+      "après le paramétrage globale fait en début 2020",
+      "pour tous les STAR du réseaux",
+      "permettant une prise en compte automatique des STAR lors du calcul"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "Des restrictions (routes, notams etc.) non prises en compte sur l'OFP calculé, et si découvertes en vol, peuvent engendrer une route ne respectant pas les restrictions imposées, ce qui peut rallonger la route avec impact sur le Fuel, et nécessiter des déroutements.",
+    "ei_ref": "EI 174",
+    "ei_label": "ECART RESTRICTION SUR LIDO",
+    "consequence": "4",
+    "barriers": [
+      "Barrière existante: Vérification par FD de l'immatriculation au moment de l'impression météo à H",
+      "1h",
+      "tel que défini sur Manuel MPD",
+      "Barrière existante: Contrôle fait par Handler au moment de l'impression OFP où il vérifie la charge+Immatriculation",
+      "Barrière existante: Vérification faite lors du breifing du Flight Crew et enfin par le CDB à bord"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "Une charge erronnée sur OFP, et découverte à la dernière minute, au moment réception LDS, peut impliquer des changements manuels pouvant induire des erreurs d'estimation Fuel, qui seront découvertes en vol, et donc peut occasionner un Fuel Shortage en vol, et déroutement en conséquence.",
+    "ei_ref": "EI 175",
+    "ei_label": "ECART FIABILITE CHARGE",
+    "consequence": "4",
+    "barriers": [
+      "Barrière existante sur le Manuel CCO pour Vérification systématique de la charge par FD au moment du RAF OFP.",
+      "Une 2ème vérification de la charge au moment du briefing avec le superviseur du vol"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "Call sign similarities resulting in an unsafe condition",
+    "ei_ref": "EI 176",
+    "ei_label": "Call sign similarities resulting in an unsafe condition",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect of procedure dedpicted in OM PART A § 14.1.8 RADIO COMMUNICATIONS"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "Flight plan not valid or changed while aircraft enroute",
+    "ei_ref": "EI 177",
+    "ei_label": "Flight plan not up to date",
+    "consequence": "4",
+    "barriers": [
+      "Un contrôle est en place selon les procédures PPV",
+      "pour contrôler le profil et trajet après edition OFP",
+      "afin de déceler toute abération.",
+      "Envoi par ACARS de toute nouvelle OFP comprenant un changement de route et sensibilisation des FD dans ce sens",
+      "Paramètrage sur LIDO des points de Sorties/Entrées exigés pour des FIRs spécifiques",
+      "Paramètrage systématique des PRED pour les vols ponctuels et sujets à autorisations",
+      "Procédures FLT OPS de gestion du carburant en vol."
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "FCOM bulletin not valid or FCOM/QRH not reflecting aircraft actual configuration",
+    "ei_ref": "EI 178",
+    "ei_label": "Aircraft FCOM/QRH not reflecting current version",
+    "consequence": "6",
+    "barriers": [
+      "Une interface DT/DOA a été mise en place afin d'éviter de pareils événements. Les FCOM/QRH sont établis par le constructeur conformément à la configuration réelle des avions et les mises à jour ne sont publiées qu’apres l'accord du Fleet Manager concerné"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE17 - OC & FLT DSP",
+    "ue_label": "Inadequate crew scheduling, error, mistake",
+    "ei_ref": "EI 179",
+    "ei_label": "Crew Schedule",
+    "consequence": "4",
+    "barriers": [
+      "Une interface DOA/... a été mise en place afin d'éviter de pareils événements. Les mises à jour ne seront publiées qu’après l'accord du Fleet Manager"
+    ],
+    "risk": "2B",
+    "updated_on": "17/02/2025"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "ATC congestion on Ground Resulting in an Unsafe Situation",
+    "ei_ref": "EI 191",
+    "ei_label": "ATM - ATC Congestion",
+    "consequence": "9",
+    "barriers": [
+      "Strict respect of procedures depicted in",
+      "ATM Procedures",
+      "OM Part A § 12.9.1 GENERAL RULES (COMMUNICATION FAILURE)",
+      "OM Part A § 14.2.1.3.2.2 ATC CLEARANCES"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Inadequate Clearance to Other Aircraft on the Ground, or to Obstacles, Buildings or Structures",
+    "ei_ref": "EI 192",
+    "ei_label": "ATM - GROUNDPROX",
+    "consequence": "6",
+    "barriers": [
+      "Strict respect of procedures in :",
+      "OM Part A § 14.2.2.1.2.1 PLANNING FOR TAXI OPERATIONS (DEP & ARR)",
+      "ATM procedures",
+      "Ground assistant safety check"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Takeoff cancelled due to a critical situation: Runway still occupied or inadequate separation between traffic may lead to a RTO",
+    "ei_ref": "EI 193",
+    "ei_label": "ATM - Take off Clearance Cancelled",
+    "consequence": "12",
+    "barriers": [
+      "Strict respect of SOP's",
+      "OM Part A § 14.2.2.1.2.1 PLANNING FOR TAXI OPERATIONS (DEP & ARR) Best Practices",
+      "ATM procedures"
+    ],
+    "risk": "3D",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Wake Turbulence generated by the preceeding or crossing Aircraft",
+    "ei_ref": "EI 194",
+    "ei_label": "ATM - Wake Turbulence - Encoutered",
+    "consequence": "",
+    "barriers": [
+      "Strict respect of procedures dipicted in:",
+      "OM Part A § 8.3.9 WAKE TURBULENCE",
+      "ATC Wake Turbulence separation according to ICAO DOC 4444 PANS",
+      "ATM"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Wrong or Unclear ATC Instruction",
+    "ei_ref": "EI 195",
+    "ei_label": "ATM - ATC Instruction Error",
+    "consequence": "6",
+    "barriers": [
+      "Application of the procedures according to OM Part A § 14.2.1.3.2 ATC CLEARANCE AND USE OF CALL SIGN"
+    ],
+    "risk": "2C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Runway lighting inoperative may lead to a GA or Diversion",
+    "ei_ref": "EI 196",
+    "ei_label": "Airport Management - Runway Lights",
+    "consequence": "6",
+    "barriers": [
+      "Procedure according to table in OM Part A § 8.1.3.4.6 FAILED OR DOWNGRADED EQUIPMENT"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Unsafe operation of ground vehicle",
+    "ei_ref": "EI 197",
+    "ei_label": "Airport Management - Taxiway Incursion By Ground Vehicle",
+    "consequence": "4",
+    "barriers": [
+      "OM Part A § 8.4.4.2.3 GROUND PROCEDURES AND PRECAUTIONS (LOW VISIBLITY PROCEDURES)"
+    ],
+    "risk": "2B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "ATC / Flight crew error or Poor Airport Layout leading to taxiway Incursion",
+    "ei_ref": "EI 198",
+    "ei_label": "Flight Management - Taxiway Incursion",
+    "consequence": "6",
+    "barriers": [
+      "OM Part A § 8.3.12.3 STERILE COCKPIT",
+      "OM Part A § 14.2.1.3.2.2 ATC CLEARANCES",
+      "OM Part A § 14.2.2.1.2 RUNWAY INCURSION PREVENTION"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Exposition inflight to laser illumination or other directed bright light sources at the vicinity of an airport",
+    "ei_ref": "EI 199",
+    "ei_label": "Airport Management - Laser Illumination",
+    "consequence": "9",
+    "barriers": [
+      "Circulaire d'information aéronautique AIC 2011 A03",
+      "Compte",
+      "rendu d’incident d’exposition à un faisceau laser",
+      "Encourager les équipages à rapporter ce genre d'événements pour cartographier les hotspots (Partage et sensibilisation des équipages par Safety Report mensuel et REX",
+      "Intégration la procédure décrite dans l'AIC 2011A03 au niveau de l'OM Part A § 8.3.17 SAFETY CRITICAL HAZARDS",
+      "LASER BEAMS"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Deficiencies in the ramp lighting may lead to confusion in situation awareness",
+    "ei_ref": "EI 1910",
+    "ei_label": "Airport Management - Ramp - Lighting",
+    "consequence": "9",
+    "barriers": [
+      "OM Part A § 14.2.2.1.2.1 PLANNING FOR TAXI OPERATIONS (DEP & ARR) Best Practices",
+      "OM Part A § 14.2.1.3.2.2 ATC CLEARANCES",
+      "OM Part A § 14.3.1 CRM"
+    ],
+    "risk": "3C",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Loss of communications with Air Traffic Control, not due to an aircraft communication technical defect but to Communication serviceability and coverage",
+    "ei_ref": "EI 1911",
+    "ei_label": "Air Traffic Management- ATM Communication, Navigation and Surveillance- Communication Serviceability- No communications coverage",
+    "consequence": "6",
+    "barriers": [
+      "OM Part A § 12.9 COMMUNIUCATION FAILURE",
+      "OM Part A § 14.1.8 RADIO COMMUNICATIONS",
+      "OM Part A § 14.2.1.3 POLICY ON RADIO COMMUNICATION"
+    ],
+    "risk": "3B",
+    "updated_on": "45335"
+  },
+  {
+    "ue_ref": "UE 19",
+    "ue_label": "Runway not clear",
+    "ei_ref": "EI 1912",
+    "ei_label": "Airport Management - RWY Incursion By Ground Vehicle",
+    "consequence": "10",
+    "barriers": [
+      "OM PART A § 14.1.4 CREW VIGILANCE",
+      "OM PART A § 14.2.2.1.2  RWY INCURSION PREVENTION",
+      "OM PART A § 14.3 CRM AND TEM IN OPS",
+      "IMSM § 2.6 ACCIDENT PREVENTION PROGRAM (FDM Reports)",
+      "FDAPM : FLIGHT DATA ANALYSIS PROGRAM MANUAL FDA Program Manual"
+    ],
+    "risk": "2E",
+    "updated_on": "45388"
+  }
+]

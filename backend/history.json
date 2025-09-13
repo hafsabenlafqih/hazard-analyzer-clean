@@ -1,0 +1,56 @@
+[
+  {
+    "id": "h_1757669255472",
+    "narrative": "Positive wind shear à 100ft sol.Augmentation de la vitesse indiquée de 20kt  malgré la réduction de puissance il a fallu absorbé l’excès de vitesse par un pallier ce qui nous a amené à un atterrissage au delà de la zone de toucher. j’ai jugé qu’il est plus préférable de continuer l’atterrissage vu que la longueur de piste disponible est assez supérieure à la distance d’atterrissage nécessaire au lieu d’effectuer une remise des gaz et envisager un déroutement alors que les conditions météorologiques au terrains de dégagement n’étaient pas favorables.  \n",
+    "result": {
+      "classification": "À analyser",
+      "hazard": {
+        "label": "Final Flap position not valid for landing (< 500 ft AGL)",
+        "ref": "UE 03"
+      },
+      "threat": {
+        "label": "Non application des SOPs et des vérifications visuelles de la position des volets conduisant à un atterrissage avec une configuration volets non approuvée par le constructeur",
+        "ref": "EI 313"
+      },
+      "consequence": "6",
+      "barriers": [
+        "Strict respect of Stabilized Approach Criteria as described in OM PART A § 14.2.2.3 APPROACH  and OM PART A § 14.2.2.5.1 STABILIZED APPROACH",
+        "HF and CRM training  (Threat and Error Management",
+        "Leadership/Assertiveness)"
+      ],
+      "probability": 2,
+      "severity": 3,
+      "riskIndex": 6
+    },
+    "createdAt": "2025-09-12T09:27:35.472Z",
+    "by": "ram",
+    "source": "keyword"
+  },
+  {
+    "id": "h_1757669216665",
+    "narrative": "BIRD STRIKE DURING TAKE OFF ROLL\n",
+    "result": {
+      "classification": "À analyser",
+      "hazard": {
+        "label": "Bird Strike reported by ATC or previous traffic conducting in a runway inspection",
+        "ref": "UE 04"
+      },
+      "threat": {
+        "label": "Bird Strike reported with no dammage",
+        "ref": "EI 47"
+      },
+      "consequence": "4",
+      "barriers": [
+        "Strict respect for the OPS manual :",
+        "FCOM PRO.NOP.ANOR.6.2 DECISION MAKING & PRO.NOP.ANOR.12 OPERATIONS AFTER BIRD STRIKE",
+        "OM PART A § 14.3.2.3.1 THREATS"
+      ],
+      "probability": 4,
+      "severity": 1,
+      "riskIndex": 4
+    },
+    "createdAt": "2025-09-12T09:26:56.665Z",
+    "by": "ram",
+    "source": "keyword"
+  }
+]
